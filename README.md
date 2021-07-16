@@ -16,7 +16,7 @@ In this week, you will continue working on your capstone project. Please remembe
 <br>
 4. A link to your Notebook on your GitHub repository pushed showing your code. (<strong>15 marks</strong>)
 <br>
-5. Your choice of a presentation or blog post. (<strong>10 marks</strong>) <br>
+5. Your choice of a presentation or blog post. (<strong>10 marks</strong>) <br><br>
   
 This capstone project is worth <strong>70%</strong> of your total grade.
 <br>
