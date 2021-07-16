@@ -18,7 +18,7 @@ In this week, you will continue working on your capstone project. Please remembe
 <br>
 5. Your choice of a presentation or blog post. (<strong>10 marks</strong>) <br><br>
   
-This capstone project is worth <strong>70%</strong> of your total grade.
+This capstone project is worth <strong>70%</strong> of the total grade.
 <br>
 
 ## My Work
