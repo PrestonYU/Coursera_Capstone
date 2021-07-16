@@ -19,6 +19,6 @@ In this week, you will continue working on your capstone project. Please remembe
 <br>
 
 ## My Work
-Report: https://github.com/PrestonYU/Coursera_Capstone/blob/master/Data_Science_Report.ipynb
-Notebook: https://github.com/PrestonYU/Coursera_Capstone/blob/master/Capstone_Project_wk4_and_5.ipynb
-Blog Post: https://medium.com/@preston.yu911/time-constrained-tourists-immigrants-problems-4c8a4a3ebaf2
+Report: https://github.com/PrestonYU/Coursera_Capstone/blob/master/Data_Science_Report.ipynb <br>
+Notebook: https://github.com/PrestonYU/Coursera_Capstone/blob/master/Capstone_Project_wk4_and_5.ipynb <br>
+Blog Post: https://medium.com/@preston.yu911/time-constrained-tourists-immigrants-problems-4c8a4a3ebaf2 <br>
