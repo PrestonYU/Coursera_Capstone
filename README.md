@@ -16,4 +16,9 @@ In this week, you will continue working on your capstone project. Please remembe
 <br>
 3. Your choice of a presentation or blog post. (**10 marks**)
   
-  
+<br>
+
+## My Work
+Report: https://github.com/Thomas-George-T/A-Tale-of-Two-Cities/blob/master/DS_Report.ipynb
+Notebook: https://github.com/PrestonYU/Coursera_Capstone/blob/master/Capstone_Project_wk4_and_5.ipynb
+Blog Post: https://medium.com/@preston.yu911/time-constrained-tourists-immigrants-problems-4c8a4a3ebaf2
